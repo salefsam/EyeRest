@@ -1,0 +1,16 @@
+c:\users\sam\documents\visual studio 2013\Projects\EyeRest\EyeRest\bin\Debug\EyeRest.exe.config
+c:\users\sam\documents\visual studio 2013\Projects\EyeRest\EyeRest\bin\Debug\EyeRest.exe
+c:\users\sam\documents\visual studio 2013\Projects\EyeRest\EyeRest\bin\Debug\EyeRest.pdb
+c:\users\sam\documents\visual studio 2013\Projects\EyeRest\EyeRest\obj\Debug\EyeRest.csprojResolveAssemblyReference.cache
+c:\users\sam\documents\visual studio 2013\Projects\EyeRest\EyeRest\obj\Debug\EyeRest.Settings.resources
+c:\users\sam\documents\visual studio 2013\Projects\EyeRest\EyeRest\obj\Debug\EyeRest.Properties.Resources.resources
+c:\users\sam\documents\visual studio 2013\Projects\EyeRest\EyeRest\obj\Debug\EyeRest.csproj.GenerateResource.Cache
+c:\users\sam\documents\visual studio 2013\Projects\EyeRest\EyeRest\obj\Debug\EyeRest.exe
+c:\users\sam\documents\visual studio 2013\Projects\EyeRest\EyeRest\obj\Debug\EyeRest.pdb
+c:\users\sam\documents\visual studio 2013\Projects\EyeRest\EyeRest\bin\Debug\EyeRest.exe.manifest
+c:\users\sam\documents\visual studio 2013\Projects\EyeRest\EyeRest\bin\Debug\EyeRest.application
+c:\users\sam\documents\visual studio 2013\Projects\EyeRest\EyeRest\obj\Debug\EyeRest.exe.manifest
+c:\users\sam\documents\visual studio 2013\Projects\EyeRest\EyeRest\obj\Debug\EyeRest.application
+C:\SalefSam_Development\EyeRest\EyeRest\bin\Debug\EyeRest.exe.config
+C:\SalefSam_Development\EyeRest\EyeRest\obj\Debug\EyeRest.exe
+C:\SalefSam_Development\EyeRest\EyeRest\obj\Debug\EyeRest.pdb
