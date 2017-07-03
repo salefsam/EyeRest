@@ -59,8 +59,6 @@ namespace EyeRest
                         Cursor.Hide();
                         isActive = true;
                     }
-                        //foreach monitor show a new form
-                        //ShowEyeRest();
                 }
             }
             base.WndProc(ref m);
